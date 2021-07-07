@@ -66,17 +66,11 @@ I implement a binary search algorithm to make the time complexity of the applica
 <!-- USAGE -->
 ## Usage
 
-1. For dynamic usage
-   ```sh
-   python3
-   >>> from pairfinderapp import heightaddsum
-   >>> heightaddsum(150)
-   ```
-2. For non-dynamic usage
+1. For non-dynamic usage
    ```sh
    python3 index.py 150
    ```
-3. For run Tests 
+2. For run Tests 
    ```sh
    python3 tests.py
    ```
